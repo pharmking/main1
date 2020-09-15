@@ -1,0 +1,27 @@
+.u-section-1 .u-sheet-1 {min-height: 500px} 
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 216px}
+.u-section-1 .u-image-1 {height: 150px; margin-top: 66px; margin-bottom: 0} }.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-text-1 {margin-left: 0; margin-right: 0; margin-bottom: 0} 
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 466px}
+.u-section-2 .u-text-1 {margin-top: 20px; margin-bottom: 40px} }.u-section-3 .u-sheet-1 {min-height: 500px}
+.u-section-3 .u-text-1 {margin-bottom: 0; font-size: 1rem; font-weight: normal}
+.u-section-3 .u-text-2 {font-size: 1rem; font-weight: normal}
+.u-section-3 .u-text-3 {font-size: 1rem; font-weight: normal}
+.u-section-3 .u-text-4 {font-size: 1rem; font-weight: normal}
+.u-section-3 .u-btn-1 {background-image: linear-gradient(to right, #f1b5b8, white); border-style: solid; font-weight: 700; font-size: 0.9375rem; box-shadow: 0 2px 6px 0 rgba(0,0,0,0.25); margin-bottom: 60px; margin-top: 30px; padding: 7px 21px}
+.u-section-3 .u-btn-2 {background-image: linear-gradient(to right, #f1b5b8, white); box-shadow: 0 2px 6px 0 rgba(0,0,0,0.25); font-weight: normal; font-size: 1rem}
+.u-section-3 .u-btn-3 {background-image: linear-gradient(to right, #f1b5b8, white); box-shadow: 0 2px 6px 0 rgba(0,0,0,0.25); font-weight: normal; font-size: 1rem}
+.u-section-3 .u-btn-4 {background-image: linear-gradient(to right, #f1b5b8, white); box-shadow: 0 2px 6px 0 rgba(0,0,0,0.25); font-weight: normal; font-size: 1rem} 
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 788px}
+.u-section-3 .u-text-1 {width: 249px; font-size: 1.125rem; font-weight: 700; margin-top: 82px; margin-left: auto; margin-right: auto}
+.u-section-3 .u-text-2 {width: 208px; font-size: 1.125rem; font-weight: 700; margin: 126px auto 0}
+.u-section-3 .u-text-3 {width: 218px; font-size: 1.125rem; font-weight: 700; margin: 126px auto 0}
+.u-section-3 .u-text-4 {font-size: 1.125rem; font-weight: 700; width: 239px; margin: 126px auto 0}
+.u-section-3 .u-btn-1 {margin: -471px 112px 0 auto}
+.u-section-3 .u-btn-2 {border-style: solid; font-weight: 700; margin: 113px 112px 0 auto; padding: 7px 21px}
+.u-section-3 .u-btn-3 {border-style: solid; font-weight: 700; margin: 115px 112px 0 auto; padding: 7px 21px}
+.u-section-3 .u-btn-4 {border-style: solid; font-weight: 700; margin: 138px 112px 0 auto; padding: 7px 21px}
+.u-section-3 .u-line-1 {width: 272px; height: 3px; transform-origin: center top 0; margin: -610px auto 60px 34px} }
